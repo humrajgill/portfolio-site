@@ -1,6 +1,6 @@
 # Portfolio Website
 
-My portfoio website adopted from [Resume](https://startbootstrap.com/theme/resume/) template created by [Start Bootstrap](https://startbootstrap.com/).
+My portfolio website adopted from [Resume](https://startbootstrap.com/theme/resume/) template created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Libraries Used
 

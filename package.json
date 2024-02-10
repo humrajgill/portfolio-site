@@ -1,7 +1,7 @@
 {
     "title": "Portfolio-Humraj",
     "name": "portfolio-site",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -20,6 +20,7 @@
         "html",
         "responsive"
     ],
+    "homepage": "https://humrajgill.github.io/portfolio-site",
     "license": "MIT",
     "repository": {
         "type": "git",
