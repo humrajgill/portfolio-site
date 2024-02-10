@@ -9,6 +9,11 @@ My portfolio website adopted from [Resume](https://startbootstrap.com/theme/resu
 
 A personal portfolio website.
 
+- Responsive to screen width.
+- Animated background.
+- Typed text animations.
+- Animate on scroll effect.
+
 ## Deployment
 
 The site is live [here](https://humrajgill.github.io/portfolio-site/)!
