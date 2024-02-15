@@ -2,6 +2,8 @@
 
 My portfolio website adopted from [Resume](https://startbootstrap.com/theme/resume/) template created by [Start Bootstrap](https://startbootstrap.com/).
 
+The site is live [here](https://humrajgill.github.io/portfolio-site/)!
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 
@@ -13,10 +15,6 @@ A personal portfolio website.
 - Animated background.
 - Typed text animations.
 - Animate on scroll effect.
-
-## Deployment
-
-The site is live [here](https://humrajgill.github.io/portfolio-site/)!
 
 ## Libraries Used
 
